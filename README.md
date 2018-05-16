@@ -1,7 +1,7 @@
 # DataCampHomework
 iPython notebooks written based on DataCamp track Data Scientist with Python
 
-01 - Intro to Python  
+01 - Intro to Python    
     * First steps (print(), basic calculations)  
     * Variables & Types (Integer, Float, String, Boolean, Types interactions)  
     * Lists  
@@ -14,3 +14,7 @@ iPython notebooks written based on DataCamp track Data Scientist with Python
    * Logic in Python (Comparision operators, Boolean operators, if-elif-else, Filtering pandas DataFrame)
    * Loops (while loop, for loop, Loop over data structures)
    
+03 - Python Data Science Toolbox I  
+   * Writing functions (Basic functions, Functions with single parameter and return value, Functions with multiple parameters and return values, Nested functions)
+   * Scope of functions, default and variable-length arguments (Scope of function, Default and flexible arguments, Variable-length arguments)
+   * Lambda functions and error-handling (Lambda functions, Error-handling)
