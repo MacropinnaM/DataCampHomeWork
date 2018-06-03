@@ -18,3 +18,7 @@ iPython notebooks written based on DataCamp track Data Scientist with Python
    * Writing functions (Basic functions, Functions with single parameter and return value, Functions with multiple parameters and return values, Nested functions)
    * Scope of functions, default and variable-length arguments (Scope of function, Default and flexible arguments, Variable-length arguments)
    * Lambda functions and error-handling (Lambda functions, Error-handling)
+
+04 - Python Data Science Toolbox II
+   * Iterators (Intro to iterators, Playing with iterators, Using iterators to load large files into memory)
+   * List comprehensions & generators (List comprehensions, List comprehensions with conditions, Dictionary comprehensions, Intro to generator expressions, List comprehesions for time-stamped data)
