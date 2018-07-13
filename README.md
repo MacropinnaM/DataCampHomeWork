@@ -21,4 +21,14 @@ iPython notebooks written based on DataCamp track Data Scientist with Python
 
 04 - Python Data Science Toolbox II
    * Iterators (Intro to iterators, Playing with iterators, Using iterators to load large files into memory)
-   * List comprehensions & generators (List comprehensions, List comprehensions with conditions, Dictionary comprehensions, Intro to generator expressions, List comprehesions for time-stamped data)
+   * List comprehensions & generators (List comprehensions, List comprehensions with conditions, Dictionary comprehensions,   Intro to generator expressions, List comprehesions for time-stamped data)
+   
+05 - Importing Data in Python I
+   * Intro to flat files (Importing from working directory, Importing with NumPy, Importing with pandas) 
+   * Importing data from other file types (Pickled files, Excel files, SAS/Stata files, HDF5 files, MatLab files)
+   * Working with relational DB (Querying DB, Exploiting table relationships)
+   
+06 - Importing Data in Python II
+   * Importing data from the internet (Importing flat files, Importing non-flat files, HTTP requests to import files, BeautifulSoup)
+   * Interacting with APIs to import data from the web (APIs and interacting with web)
+   * Diving deep into the Twitter API (The Twitter API and Authentication)
